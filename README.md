@@ -1,10 +1,5 @@
 ## Hi there 👋
-<style>
-  p{
-    color: red;
-  }
-</style>
-<p>AAA</p>
+
 <!--
 **elens21/elens21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
+  <head>
+    <style>
+  p{
+    color: red;
+  }
+</style>
+  </head>
+  <body>
+    <p>AAA</p>
+  </body>
+</html>
