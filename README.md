@@ -14,15 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<html>
-  <head>
-    <style>
-      p{
-        color: red;
-      }
-    </style>
-  </head>
-  <body>
-    <p>AAA</p>
-  </body>
-</html>
+<div style="display: grid; grid-template-column: auto auto;">
+    <p>grid 1</p>
+    <p>grid 2</p>
+</div>
