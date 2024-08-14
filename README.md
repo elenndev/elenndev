@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <html>
   <head>
     <style>
-  p{
-    color: red;
-  }
-</style>
+      p{
+        color: red;
+      }
+    </style>
   </head>
   <body>
     <p>AAA</p>
