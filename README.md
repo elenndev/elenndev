@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <tr>
         <td>imagem</td>
         <td>
-            <p>Texto 1</p>
+            <span> texto 1</span>
             <p>Texto 2</p>
         </td>
     </tr>
