@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <table>
     <tr>
-        <td>imagem</td>
+        <td style="font-family: monospace; font-size: 16px; color: red;">imagem'</td>
         <td style="font-family: monospace; font-size: 16px; color: red;"> 
             <p style="font-family: monospace; font-size: 16px; color: red;">
                     - 🔭 Cursando engenharia de software ...<br>
