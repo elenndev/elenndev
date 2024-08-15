@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>imagem</td>
-            <td style="font-family: monospace; font-size: 16px;">      
-                        - 🔭 Cursando engenharia de software ...<br>
-                        - 🌱 I’m currently learning javascript ...<br>
-                        - 👯 I’m looking to collaborate on ...<br>
-                        - 🤔  ...<br>
-                        - 💬 Ask me about ...<br>
-                        - 📫 How to reach me: ...<br>
-                        - 😄 Pronouns: She/her - Ela/dela...<br>
-                        - ⚡ Tecnologias: Html/CSS/Javascript ...<br>
-            </td>   
+        <td> 
+            <p style="font-family: monospace; font-size: 16px;">
+                    - 🔭 Cursando engenharia de software ...<br>
+                    - 🌱 I’m currently learning javascript ...<br>
+                    - 👯 I’m looking to collaborate on ...<br>
+                    - 🤔  ...<br>
+                    - 💬 Ask me about ...<br>
+                    - 📫 How to reach me: ...<br>
+                    - 😄 Pronouns: She/her - Ela/dela...<br>
+                    - ⚡ Tecnologias: Html/CSS/Javascript ...<br>
+            </p>
+        </td>   
     </tr>
 </table>
