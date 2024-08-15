@@ -20,7 +20,7 @@ Here are some ideas to get you started:
        <img src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.jpg" alt="Asuka" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
-      <p style="font-family: monospace; font-size: 16px; color: red;">Olá!</p>
+      <p style="font-family: monospace; font-size: 86px;>Olá!</p>
 
     /About_Me
     │
