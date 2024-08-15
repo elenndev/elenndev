@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>imagem</td>
-        <td>
+        <td font-family: monospace; font-size: 16px>
             <span> texto 1</span>
-            <p>
+            
                 - 🔭 Cursando engenharia de software ...
                 - 🌱 I’m currently learning javascript ...
                 - 👯 I’m looking to collaborate on ...
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
                 - 📫 How to reach me: ...
                 - 😄 Pronouns: She/her - Ela/dela...
                 - ⚡ Tecnologias: Html/CSS/Javascript ...
-            </p>
+            
         </td>
     </tr>
 </table>
