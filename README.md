@@ -21,7 +21,8 @@ Here are some ideas to get you started:
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 86px;">Olá!</p>
-
+    
+    ├──ABOUT ME
     ├── 🔭 Estudando engenharia de software ...
     ├── 🌱 I’m currently learning javascript ...
     ├── 👯 I’m looking to collaborate on ...
