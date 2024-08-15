@@ -3,11 +3,7 @@
 <table>
     <tr>
     <td style="width: 50%;">
-      imagem
-    </td>
-    <td style="width: 50%; vertical-align: top;">
-      <p style="font-family: monospace; font-size: 86px;">Olá!</p>
-    
+        
     ├──ABOUT ME
     ├── 🔭 Estudando engenharia de software ...
     ├── 🌱 I’m currently learning javascript ...
@@ -19,5 +15,8 @@
     └── ⚡ Tecnologias: Html/CSS/Javascript ...
         
   </td>
+  <td>
+      <img src="https://github.com/elenndev/elennde/main/gengar.gif" alt="Gengar" style="width: 40%;">
+  </td>
   </tr>
 </table>
