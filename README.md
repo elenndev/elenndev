@@ -2,7 +2,7 @@
 
 <table>
     <tr>
-    <td style="width: 50%;">
+    <td>
         
     ├──ABOUT ME
     ├── 🔭 Estudando engenharia de software ...
@@ -15,7 +15,7 @@
     └── ⚡ Tecnologias: Html/CSS/Javascript ...
         
   </td>
-  <td>
+  <td style="width: 20%;">
       <img src="img/gengar.gif" alt="Gengar" style="width: 100%;">
   </td>
   </tr>
