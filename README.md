@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
     <td style="width: 50%;">
-       <img src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.jpg" alt="Asuka" style="width: 200%; border: none;"/>
+      imagem
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 26px;>Olá!</p>
