@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her - Ela/dela...
 - ⚡ Tecnologias: Html/CSS/Javascript ...
 -->
-<div style="display: grid; grid-template-column: auto auto;">
-    <p>grid 1</p>
-    <p>grid 2</p>
-</div>
+<table>
+    <tr>
+        <td>imagem</td>
+    </tr>
+    <tr>
+        <td>texto 1</td>
+        <td>texto 2</td>
+    </tr>
+</table>
