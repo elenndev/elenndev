@@ -18,7 +18,7 @@ Here are some ideas to get you started:
     <tr>
         <td>imagem</td>
         <td> 
-            <p style="font-family: monospace; font-size: 16px;">
+            <p style="font-family: monospace; font-size: 16px; color: red;">
                     - 🔭 Cursando engenharia de software ...<br>
                     - 🌱 I’m currently learning javascript ...<br>
                     - 👯 I’m looking to collaborate on ...<br>
