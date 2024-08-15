@@ -16,7 +16,7 @@
         
   </td>
   <td>
-      <img src="https://github.com/elenndev/elennde/main/gengar.gif" alt="Gengar" style="width: 40%;">
+      <img src="https://github.com/elenndev/elennde/main/gengar.gif" alt="Gengar" style="width: 100px;">
   </td>
   </tr>
 </table>
