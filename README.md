@@ -16,7 +16,7 @@
         
   </td>
   <td>
-      <img src="img/gengar.gif" alt="Gengar" style="width: 20%;">
+      <img src="img/gengar.gif" alt="Gengar" style="width: 100%;">
   </td>
   </tr>
 </table>
