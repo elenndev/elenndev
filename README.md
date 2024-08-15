@@ -20,7 +20,7 @@ Here are some ideas to get you started:
       imagem
     </td>
     <td style="width: 50%; vertical-align: top;">
-      <p style="font-family: monospace; font-size: 26px;>Olá!</p>
+      <p style="font-family: monospace; font-size: 26px;">Olá!</p>
 
     /About_Me
     │
