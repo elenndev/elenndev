@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>imagem</td>
-    </tr>
-    <tr>
-        <td>texto 1</td>
-        <td>texto 2</td>
+        <td>
+            <p>Texto 1</p>
+            <p>Texto 2</p>
+        </td>
     </tr>
 </table>
