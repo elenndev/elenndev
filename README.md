@@ -1,22 +1,17 @@
 ## Welcome to my profile ✨
 
-<table>
+<table style="width: 100%;">
     <tr>
     <td>
         
-    ├──ABOUT ME
-    ├── 🔭 Estudando engenharia de software ...
-    ├── 🌱 I’m currently learning javascript ...
-    ├── 👯 I’m looking to collaborate on ...
-    ├── 🤔 I’m looking for help with ...
-    ├── 💬 Ask me about ...
-    ├── 📫 How to reach me: ...
-    ├── 😄 Pronouns: She/her - Ela/dela...
-    └── ⚡ Tecnologias: Html/CSS/Javascript ...
+    ├── ABOUT ME ──────────────
+    ├── 🐱‍👤 Currently pursuing a degree in Software Engineering ─
+    ├── 👩‍💻 HTML|CSS|Javascript ─
+    └── 📚 Learning Python ─
         
   </td>
-  <td style="width: 20%;">
-      <img src="img/gengar.gif" alt="Gengar" style="width: 100%;">
+  <td>
+      <img src="img/gengar.gif" alt="Gengar" style="width: 100px;">
   </td>
   </tr>
 </table>
