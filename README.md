@@ -18,5 +18,6 @@
     ├── 😄 Pronouns: She/her - Ela/dela...
     └── ⚡ Tecnologias: Html/CSS/Javascript ...
         
-  </tr>
+  </td>
+  </tr>
 </table>
