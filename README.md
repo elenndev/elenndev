@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <table>
     <tr>
-        <td><p style="font-family: monospace; font-size: 16px; color: red;">imagem'</p></td>
-        <td> A
-        </td>   
+    <td><p style="font-family: monospace; font-size: 16px;">imagem'</p></td>
+    <td> A
+    </td>   
     </tr>
 </table>
