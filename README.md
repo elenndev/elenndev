@@ -8,6 +8,7 @@
     ├── Sobre mim ──────────────────────────────────────
     ├── 🐱‍👤 21 anos, cursando Engenharia de Software
     ├── 👩‍💻 HTML|CSS|Javascript
+    ├── 💻 Photoshop | Illustrator
     ├── 📚 Aprendendo Python
     ├── 💡 Projeto atual: Remake LastFm
     └────────────────────────────────────────────────── 
@@ -23,9 +24,10 @@
     ├───────────────────────────
     ├ 🔎 Atualmente trabalho na 
     ├  área adm/financeiro,
-    ├  busco migrar para a área
-    ├  de tecnologia e conhecer
-    ├  mais pessoas da área.
+    ├  buscando migrar para 
+    ├  a área de tecnologia,
+    ├  principalmente na 
+    ├  parte visual.
     └───────────────────────────
              
     
@@ -35,7 +37,7 @@
 </div>
 
 
-Produzo conteúdos de tecnologia e posto frequentemente nas redes sociais.
+Fique à vontade pra conferir os conteúdos que já publiquei nas redes sociais e pra puxar um papo também 🐱‍👓
 <div>
   <a href="https://www.instagram.com/elenndev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:elen.damares74@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
