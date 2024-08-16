@@ -9,7 +9,7 @@
     ├── 🐱‍👤 20 anos, cursando Engenharia de Software
     ├── 👩‍💻 HTML|CSS|Javascript
     ├── 💻 Photoshop | Illustrator
-    ├── 📚 Aprendendo Python
+    ├── 📚 Aprendendo Python E Cybersecurity
     ├── 💡 Projeto atual: Remake LastFm
     └────────────────────────────────────────────────── 
     
