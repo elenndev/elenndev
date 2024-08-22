@@ -6,7 +6,7 @@
 
     ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
     ├── Sobre mim ──────────────────────────────────────
-    ├── 🐱‍👤 20 anos, cursando Engenharia de Software
+    ├── 🐱‍👤 20 anos, Engenharia de Software 02/07
     ├── 👩‍💻 HTML|CSS|Javascript
     ├── 💻 Photoshop | Illustrator
     ├── 📚 Aprendendo Python E Cybersecurity
