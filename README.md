@@ -1,4 +1,5 @@
-## Boas vindas ! ✨
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7937D4&width=435&lines=Boas+vindas!+%E2%9C%A8)](https://git.io/typing-svg)
+
 <div style="display: flex">
      <table>
     <tr>
