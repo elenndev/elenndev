@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=9242FF&width=435&lines=Boas+vindas!+%E2%9C%A8)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&width=435&lines=Boas+vindas!+%E2%9C%A8)](https://git.io/typing-svg)
 <div style="display: flex">
      <table>
     <tr>
@@ -17,7 +16,7 @@
 
       </td>
       <td>
-          <img src="img/gengar.gif" alt="Gengar" width="100" align="center">
+          <img src="img/mimikyu.gif" alt="Mimikyu" width="100" align="center">
       </td>
 <td> 
 
@@ -38,10 +37,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elenndev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elenndev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=elenndev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elenndev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+  
 Fique à vontade pra conferir os conteúdos que já publiquei nas redes sociais e pra puxar um papo também 🐱‍👓
 <div>
   <a href="https://www.instagram.com/elenndev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
