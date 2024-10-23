@@ -9,8 +9,8 @@
     ├── 🐱‍👤 20 anos, Engenharia de Software 02/07
     ├── 👩‍💻 HTML|CSS|Javascript
     ├── 💻 Photoshop | Illustrator
-    ├── 📚 Aprendendo Python E Cybersecurity
-    ├── 💡 Projeto atual: Remake LastFm
+    ├── 📚 Aprendendo Python E React
+    ├── 💡 Projeto atual: Music Archive Blog
     └────────────────────────────────────────────────── 
     
 
@@ -26,8 +26,8 @@
     ├  área adm/financeiro,
     ├  buscando migrar para 
     ├  a área de tecnologia,
-    ├  principalmente na 
-    ├  parte visual.
+    ├  principalmente no 
+    ├  frontend.
     └───────────────────────────
              
     
