@@ -22,9 +22,7 @@
 
      ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 
     ├───────────────────────────
-    ├ 🔎 Atualmente trabalho na 
-    ├  área adm/financeiro,
-    ├  buscando migrar para 
+    ├ 🔎 Migrando para 
     ├  a área de tecnologia,
     ├  principalmente no 
     ├  frontend.
