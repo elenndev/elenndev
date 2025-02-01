@@ -6,7 +6,7 @@
 
     ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
     ├── Sobre mim ──────────────────────────────────────
-    ├── 🐱‍👤 20 anos, Engenharia de Software 02/07
+    ├── 🐱‍👤 20 anos, Engenharia de Software 03/07
     ├── 👩‍💻 JavaScript | TypeScript | Next.JS | Python
     ├── 💻 Figma | Tailwind CSS | Styled Components
     ├── 📚 Estudando UX
