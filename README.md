@@ -1,33 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&width=435&lines=Boas+vindas!+%E2%9C%A8)](https://git.io/typing-svg)
-<div style="display: flex">
-     <table>
+<div style="display: flex" align="center">
+     <table width="100%">
     <tr>
     <td>
 
     ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-    ├── Sobre mim ──────────────────────────────────────
+    ├───────────────────────────────────────────────────
     ├── 🐱‍👤 20 anos, Engenharia de Software 03/07
-    ├── 👩‍💻 JavaScript | TypeScript | Next.JS | Python
+    ├── 👩‍💻 TypeScript | Next.JS | 
     ├── 💻 Figma | Tailwind CSS | Styled Components
-    ├── 📚 Estudando UX
+    ├── 📚 Estudando UX | Coursera
     └────────────────────────────────────────────────── 
     
 
       </td>
-      <td>
-          <img src="img/mimikyu.gif" alt="Mimikyu" width="100" align="center">
-      </td>
-<td> 
-
-     ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 
-    ├───────────────────────────
-    ├ 🔎 Interfaces 
-    ├  modernas, intuitivas e
-    ├  responsivas.
-    └───────────────────────────
-             
-    
-</td>
   </tr>
 </table>   
 </div>
