@@ -24,11 +24,10 @@
 </table>   
 </div>
 
-<div align="center">
-       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title='Typescript'> <img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" alt="Typescript" width="50" height="50"/> </a>
-       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"  title='React.js'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
-
+<div align='center'>
+     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,html,css,next,react,nodejs,mongodb,mysql,tailwind,wordpress,figma" /></a>
 </div>
+
 <br>
 Projeto mais recente em andamento: <a href="https://github.com/elenndev/thaygle.git">Website Thaygle Pré-Moldados</a><br>
 Fique à vontade pra conferir os conteúdos que já publiquei nas redes sociais e pra puxar um papo também 🐱‍👓
