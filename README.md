@@ -1,17 +1,24 @@
+<div align="center">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&duration=2500&pause=1000&vCenter=true&width=435&lines=Boas+Vindas!+%E2%9C%A8" alt="Typing SVG" style="margin-right: 10px;">
+</div>
+
+## 🌟 Sobre Mim
+Desenvolvedora web entusiasta por tecnologia e novos aprendizados. Atualmente curso **Engenharia de Software** e aplicaco os meus conhecimentos em projetos Full Stack.
 <div style="display: flex" align="center">
      <table width="100%">
     <tr>
     <td>
-         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&duration=2500&pause=1000&vCenter=true&width=435&lines=Boas+Vindas!+%E2%9C%A8" alt="Typing SVG" style="margin-right: 10px;">
+         
 </div>
 <div>
      
     ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
     ├───────────────────────────────────────────────────
-    ├── 🐱‍👤 20 anos, Engenharia de Software 03/07
-    ├── 👩‍💻 TypeScript | Next.JS | 
-    ├── 💻 Figma | Tailwind CSS | Styled Components
-    ├── 📚 Estudando UX | Coursera
+    ├── 🐱‍👤TypeScript | JavaScript | Python | HTML | CSS
+    ├── 👩‍💻 Next.JS | React | Node | Tailwind Css | Styled Components
+    ├── 🎲 MongoDB | MySQL   
+    ├── 💻 Figma | Git |  
+    ├── 📚 Estudando UX | UI
     └────────────────────────────────────────────────── 
     
 </div>
@@ -27,7 +34,19 @@
 <div align='center'>
      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,html,css,next,react,nodejs,mongodb,mysql,tailwind,wordpress,figma" /></a>
 </div>
+<br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenndev&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
+</picture>
+
+  
 <br>
 Projeto mais recente em andamento: <a href="https://github.com/elenndev/thaygle.git">Website Thaygle Pré-Moldados</a><br>
 Fique à vontade pra conferir os conteúdos que já publiquei nas redes sociais e pra puxar um papo também 🐱‍👓
