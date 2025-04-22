@@ -16,6 +16,7 @@ Desenvolvedora web entusiasta por tecnologia e novos aprendizados. Atualmente cu
     ├───────────────────────────────────────────────────
     ├── 🐱‍👤TypeScript | JavaScript | Python | HTML | CSS
     ├── 👩‍💻 Next.JS | React | Node | Tailwind Css | Styled Components
+    ├── 🌟 Tailwind Css | Styled Components
     ├── 🎲 MongoDB | MySQL   
     ├── 💻 Figma | Git |  
     ├── 📚 Estudando UX | UI
