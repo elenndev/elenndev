@@ -15,7 +15,7 @@ Desenvolvedora web entusiasta por tecnologia e novos aprendizados. Atualmente cu
     ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
     ├───────────────────────────────────────────────────
     ├── 🐱‍👤TypeScript | JavaScript | Python | HTML | CSS
-    ├── 👩‍💻 Next.JS | React | Node | Tailwind Css | Styled Components
+    ├── 👩‍💻 Next.JS | React | Node 
     ├── 🌟 Tailwind Css | Styled Components
     ├── 🎲 MongoDB | MySQL   
     ├── 💻 Figma | Git |  
@@ -24,10 +24,7 @@ Desenvolvedora web entusiasta por tecnologia e novos aprendizados. Atualmente cu
     
 </div>
       </td>
- <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elenndev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
-      
- </td>
+ 
   </tr>
 </table>   
 </div>
