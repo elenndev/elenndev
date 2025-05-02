@@ -3,7 +3,7 @@
 </div>
 
 ## 🌟 Sobre Mim
-Desenvolvedora web entusiasta por tecnologia e novos aprendizados. Atualmente curso **Engenharia de Software** e aplicaco os meus conhecimentos em projetos Full Stack.
+Desenvolvedora fullstack entusiasta por tecnologia e novos aprendizados. Atualmente curso **Engenharia de Software** e aplicaco os meus conhecimentos em projetos Full Stack.
 <div style="display: flex" align="center">
      <table width="100%">
     <tr>
