@@ -3,7 +3,8 @@
 </div>
 
 ## 🌟 Sobre Mim
-Desenvolvedora fullstack entusiasta por tecnologia e novos aprendizados. Atualmente curso **Engenharia de Software** e aplico os meus conhecimentos em projetos Full Stack.
+Desenvolvedora fullstack entusiasta por tecnologia e novos aprendizados. Atualmente curso **Engenharia de Software** e aplico os meus conhecimentos em projetos Full Stack.  
+Atualmente participo como desenvolvedora fullstack voluntaria na [comunidade Frontend Fusion](https://github.com/Projeto-FrontEnd-Fusion) desenvolvendo o Website da [ONG Associação Cultural e Educacional Violeta Eliz](https://github.com/Projeto-FrontEnd-Fusion/Aceve-website-development).
 <div style="display: flex" align="center">
      <table width="100%">
     <tr>
@@ -14,7 +15,7 @@ Desenvolvedora fullstack entusiasta por tecnologia e novos aprendizados. Atualme
      
     ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
     ├───────────────────────────────────────────────────
-    ├── 🐱‍👤TypeScript | JavaScript | Python | HTML | CSS
+    ├── 🐱‍👤TypeScript | JavaScript | HTML | CSS
     ├── 👩‍💻 Next.JS | React | Node 
     ├── 🌟 Tailwind Css | Styled Components
     ├── 🎲 MongoDB | MySQL   
@@ -46,7 +47,6 @@ Desenvolvedora fullstack entusiasta por tecnologia e novos aprendizados. Atualme
 
   
 <br>
-Projeto mais recente em andamento: <a href="https://github.com/elenndev/thaygle.git">Website Thaygle Pré-Moldados</a><br>
 Fique à vontade pra conferir os conteúdos que já publiquei nas redes sociais e pra puxar um papo também 🐱‍👓
 <div>
   <a href="https://www.instagram.com/elenndev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
