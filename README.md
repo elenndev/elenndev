@@ -20,7 +20,7 @@ Atualmente participo como desenvolvedora fullstack voluntaria na [comunidade Fro
     ├── 🌟 Tailwind Css | Styled Components
     ├── 🎲 MongoDB | MySQL   
     ├── 💻 Figma | Git |  
-    ├── 📚 Estudando UX | UI
+    ├── 📚 Estudando Jest
     └────────────────────────────────────────────────── 
     
 </div>
@@ -52,5 +52,4 @@ Fique à vontade pra conferir os conteúdos que já publiquei nas redes sociais 
   <a href="https://www.instagram.com/elenndev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:elen.damares774@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@elenndev" target="_blank"><img src=https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white></a> 
-  <a href="https://x.com/elenndev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"</a> 
 </div>
