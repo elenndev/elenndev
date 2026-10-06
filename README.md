@@ -2,24 +2,26 @@
 
 **Desenvolvedora Web Full Stack** | Graduanda em **Engenharia de Software**
 
-Atualmente atuo como Trainee na **FWK Global**, contribuindo para o desenvolvimento e evolução da plataforma **Orfeu** (Backend Node.js/TypeScript, Frontend React/Next.js, MongoDB/MySQL).
+Atualmente atuo como Trainee na **FWK Global**, contribuindo para o desenvolvimento e evolução da plataforma **Orfeu** (Backend Node.js/TypeScript, Frontend React/Next.js, MongoDB/MySQL) e atuando ativamente no desenvolvimento da **freireAI**.
 
 ---
 
-### Destaques Técnicos & Participação nas decisões arquiteturais
+### Destaques Técnicos & Entregas de Impacto
 
-Atuo com foco em arquitetura backend, otimização de performance, segurança e qualidade de código:
+Atuo com foco em arquitetura backend, otimização de performance, segurança e desenvolvimento de produtos:
 
-- **Otimização de Connection Pool (MongoDB):** Identifiquei gargalo de conexões simultâneas no MongoDB Atlas e refatorei a camada de acesso utilizando o padrão *Singleton*, reduzindo o pico de conexões sob estresse.
-- **Tratamento de Concorrência & Isolamento de Contexto**: Identifiquei e corrigi um bug de race condition causado pelo uso de estado global em rotas assíncronas (Node.js). Validei a hipótese criando um script local de requisições concorrentes paralelas e reestruturei a arquitetura para isolar o contexto do usuário por requisição HTTP (req.user), garantindo a integridade dos logs e da auditoria.
-- **Modelagem de Domínio:** Reestruturei a arquitetura de convites na plataforma Orfeu, separando as entidades para garantir a atribuição correta de permissões por grupo durante o onboarding.
+- **Módulo de Matchmaking (Orfeu):** Desenvolvi a solução de matchmaking que conecta os desafios corporativos de empresas a soluções de startups ecossistêmicas, estruturando os fluxos de integração e regras de negócio.
+- **Desenvolvimento da freireAI:** Atuação ativa na construção e evolução da **freireAI**, participando da implementação técnica de funcionalidades e integrações.
+- **Otimização de Connection Pool (MongoDB):** Identifiquei gargalo de conexões simultâneas no MongoDB Atlas e refatorei a camada de acesso utilizando o padrão *Singleton*, reduzindo drasticamente o pico de conexões sob carga estressada.
+- **Tratamento de Concorrência & Isolamento de Contexto:** Identifiquei e corrigi um bug de *race condition* causado pelo uso de estado global em rotas assíncronas (Node.js). Validei a hipótese via script local de requisições concorrentes paralelas e reestruturei a arquitetura para isolar o contexto por requisição HTTP (`req.user`), garantindo a integridade dos logs de auditoria.
+- **Modelagem de Domínio:** Reestruturei a arquitetura do fluxo de convites na plataforma Orfeu, modelando entidades dedicadas para garantir a atribuição correta de permissões por grupo durante o onboarding.
 
 ---
 
 ### Experiência & Atividades Recentes
 
-- **Trainee / Full Stack Developer** @ [FWK Global](https://br.linkedin.com/company/fwkglobal) — Plataforma [Orfeu](https://orfeu.app/)
-- **Monitora Técnica** @ Programa Impulse(FWK Global & CanPack) - Orientação técnica e acompanhamento em projetos de inovação
+- **Trainee / Full Stack Developer** @ [FWK Global](https://br.linkedin.com/company/fwkglobal) — Plataforma [Orfeu](https://orfeu.app/) & freireAI
+- **Monitora Técnica** @ Programa Impulse (FWK Global & CanPack) — Orientação técnica e acompanhamento em projetos de inovação.
 - **Desenvolvedora Full Stack Voluntária** @ [Frontend Fusion](https://github.com/Projeto-FrontEnd-Fusion) — Desenvolvimento do Website para a ONG ACEVE e suporte na formação de squads.
 
 ---
@@ -43,5 +45,9 @@ Atuo com foco em arquitetura backend, otimização de performance, segurança e 
 
 ---
 
+<div align="center">
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elenndev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+
+</div>
